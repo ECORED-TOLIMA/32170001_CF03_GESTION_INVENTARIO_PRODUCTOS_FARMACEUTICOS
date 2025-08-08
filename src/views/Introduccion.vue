@@ -15,7 +15,7 @@
           .col-lg-7.col-12.order-lg-2.order-2
             p(data-aos="fade-down") El control de inventario en los servicios farmacéuticos es un proceso fundamental que permite garantizar la disponibilidad, trazabilidad y adecuada rotación de los productos, contribuyendo así a la eficiencia operativa, la seguridad del paciente y el cumplimiento de la normatividad vigente.
             .cajon.cajon.C01.color-primario.p-4
-              p.mb-0 Este componente formativo tiene como propósito desarrollar en el aprendiz las competencias necesarias para gestionar de manera adecuada los inventarios, identificando sus tipos, objetivos, parámetros operativos y políticas de control. Así mismo, busca fortalecer el análisis de métodos de control, el cálculo de stock, la trazabilidad de los productos y el uso de herramientas tecnológicas que facilitan el registro, seguimiento y generación de reportes confiables.
+              p.mb-0 Este componente formativo tiene como propósito desarrollar en el aprendiz las competencias necesarias para gestionar de manera adecuada los inventarios, identificando sus tipos, objetivos, parámetros operativos y políticas de control. Así mismo, busca fortalecer el análisis de métodos de control, el cálculo de <em>stock</em>, la trazabilidad de los productos y el uso de herramientas tecnológicas que facilitan el registro, seguimiento y generación de reportes confiables.
           .col-lg-5.col-md-7.col-12.mb-3.order-lg-1.order-1.mb-lg-0
             .row.justify-content-center(data-aos="flip-up")
               .col
@@ -29,7 +29,7 @@
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/ZeA3I_AgEjk?si=5fugLNTcaUMfapj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 

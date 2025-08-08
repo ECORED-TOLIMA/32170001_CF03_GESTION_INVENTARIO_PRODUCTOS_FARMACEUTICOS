@@ -33,6 +33,14 @@
   background-color: #E1FEFF
 .cajon.C02
   background-color: #DEFFF4
+.cajon.BG05
+  background-image: url("../assets/curso/temas/BG05.png")
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
 
 // Modulo tarjetas
 
@@ -69,6 +77,22 @@
   margin-inline: -3rem !important
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
+
+.tarjeta--BG08
+  background-image: url("../assets/curso/temas/BG08.png")
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+
+.BG07
+  background: linear-gradient(to right, #B8FAFD 20%, #DEFFF4 12%)
+  @media (max-width: $bp-max-md)
+    background: linear-gradient(to bottom, #B8FAFD 22%, #DEFFF4 22%)
+
+.BG09
+  background: linear-gradient(to right, #005865 28%, #E1FEFF 12%)
+  @media (max-width: $bp-max-md)
+    background: linear-gradient(to bottom, #005865 28%, #E1FEFF 22%)
 
 .tarjeta--tabla
   background-color: #B8FAFD
@@ -217,6 +241,59 @@ li
     height: 160px
     background-color: #FF9292
     border-radius: 999px
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      background-color: #FFE4E4
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      h5.t2
+        color: $black
+        display: block
+        background-image: url('../assets/curso/temas/ico-down.svg')
+        background-size: 7% 100%
+        background-repeat: no-repeat
+        padding-left: 2.0rem
+      h5.t1
+        display: none
+        
+      @media (max-width:767px)  
+        p
+          font-size: 0.85em
+        h5.t2
+          background-size: 5.5% 100%
+
+.crd_hover_txt--body
+  position: absolute
+  padding: 1.5rem
+  bottom: 0    
+  transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+  transform: translateY(calc( 100% - 3.85rem ))
+  background-color: #FFE4E4
+  h5.t2
+      display: none
+  h5.t1
+    display: block
+    color: $black
+    cursor: pointer
+    background-image: url('../assets/curso/temas/ico-up.svg')
+    background-size: 7% 100%
+    background-repeat: no-repeat
+    padding-left: 2.0rem
+
+@media (min-width:1200px) and (max-width:1400px)  
+  .crd_hover_txt--body
+    p
+      font-size: 0.85em
+
+.crd_hover_txt .crd_hover_txt--body
+  padding: 1.5rem 0.8rem !important
+  width: 100%
 
 //- Modulo acordions
 .acordion

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="178" height="178" viewBox="0 0 178 178">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_408246" data-name="Rectangle 408246" width="76.861" height="97.747" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1113362" data-name="Group 1113362" transform="translate(-21196 9894.248)">
+    <g id="Group_1113087" data-name="Group 1113087" transform="translate(21196 -9894.247)">
+      <path id="Path_882862" data-name="Path 882862" d="M89,0A89,89,0,1,1,0,89,89,89,0,0,1,89,0Z" transform="translate(0 -0.001)" fill="#005865"/>
+      <path id="Path_882863" data-name="Path 882863" d="M78.668,0A78.668,78.668,0,1,1,0,78.668,78.668,78.668,0,0,1,78.668,0Z" transform="translate(10.332 10.331)" fill="#f3f9ff"/>
+    </g>
+    <g id="Group_1113091" data-name="Group 1113091" transform="translate(21235 -9855.247)">
+      <rect id="Rectangle_401104" data-name="Rectangle 401104" width="99.117" height="100.574" transform="translate(0 2.247)" fill="none"/>
+      <g id="Group_1113350" data-name="Group 1113350" transform="translate(10.999 3.248)">
+        <path id="Path_888872" data-name="Path 888872" d="M.022,0,0,97.732l65.612.014,10.1-10.253L75.734.017Z" transform="translate(-2.072 -2.127)" fill="#dee4f0"/>
+        <path id="Path_888866" data-name="Path 888866" d="M.022,0,0,97.732l65.612.014,10.1-10.253L75.734.017Z" transform="translate(0 0)" fill="#defff4"/>
+        <path id="Path_888867" data-name="Path 888867" d="M81.855,119.407l10.1-10.254-10.1,0Z" transform="translate(-16.243 -21.66)" fill="#a8a8a8"/>
+        <rect id="Rectangle_408237" data-name="Rectangle 408237" width="44.64" height="9.036" transform="translate(9.601 9.199)" fill="#2bc897"/>
+        <rect id="Rectangle_408238" data-name="Rectangle 408238" width="57.463" height="2.588" transform="translate(9.598 23.461)" fill="#838383"/>
+        <rect id="Rectangle_408239" data-name="Rectangle 408239" width="57.463" height="2.588" transform="translate(9.596 30.701)" fill="#838383"/>
+        <rect id="Rectangle_408240" data-name="Rectangle 408240" width="57.463" height="2.588" transform="translate(9.589 63.278)" fill="#838383"/>
+        <rect id="Rectangle_408241" data-name="Rectangle 408241" width="57.463" height="2.588" transform="translate(9.587 70.518)" fill="#838383"/>
+        <rect id="Rectangle_408242" data-name="Rectangle 408242" width="30.648" height="2.587" transform="translate(9.586 77.754)" fill="#838383"/>
+        <rect id="Rectangle_408243" data-name="Rectangle 408243" width="57.085" height="19.682" transform="translate(9.593 38.166)" fill="#41cee2"/>
+        <rect id="Rectangle_408244" data-name="Rectangle 408244" width="11.401" height="7.456" transform="translate(49.972 80.282)" fill="#d9b34f"/>
+        <g id="Group_1113349" data-name="Group 1113349">
+          <g id="Group_1113348" data-name="Group 1113348" clip-path="url(#clip-path)">
+            <path id="Path_888868" data-name="Path 888868" d="M53.733,109.338s5.406-5.778,8.2-5.033-2.236,4.66,0,5.033,3.8-3.807,5.1-2.983c.917.584-1.119,2.05,0,2.672s2.547-.683,2.547-.683" transform="translate(-10.663 -20.685)" fill="none" stroke="#656565" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.93"/>
+            <rect id="Rectangle_408245" data-name="Rectangle 408245" width="36.775" height="4.732" transform="translate(58.983 75.603) rotate(-78.478)" fill="#3d4a5d"/>
+            <path id="Path_888869" data-name="Path 888869" d="M87.963,14.45l-5.59,27.424,5.171,1.054L93.135,15.5a2.865,2.865,0,0,0-1.949-3.523l-.051-.01a2.864,2.864,0,0,0-3.172,2.479" transform="translate(-16.346 -2.366)" fill="#3d4a5d"/>
+            <path id="Path_888870" data-name="Path 888870" d="M73.582,94.32l4.636.945-4.65,10.786Z" transform="translate(-14.599 -18.717)" fill="#43ffce"/>
+            <path id="Path_888871" data-name="Path 888871" d="M85.41,21.429l.947.193.337-1.65-.947-.192L84.058,20.9,80.045,40.583l1.19,1.329Z" transform="translate(-15.884 -3.925)" fill="#43ffce"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

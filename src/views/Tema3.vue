@@ -43,7 +43,7 @@
 
         .row(titulo="2")
           .col-lg-5.mb-4.mb-md-0.order-lg-2.order-2
-            h4 Rotación adecuada del stock
+            h4 Rotación adecuada del <em>stock</em>
             p Implementar mecanismos que favorezcan el consumo de los productos en el orden adecuado (por ejemplo, PEPS - Primero en Entrar, Primero en Salir), previniendo pérdidas por vencimiento, deterioro u obsolescencia.
           .col-lg-7.order-lg-1.order-1.mb-lg-0.mb-4
             figure
@@ -140,7 +140,7 @@
           img(src='@/assets/curso/temas/ico.svg', style="width: 70px" ,alt='').m-auto
       .col-lg-auto.col-9.titulo01(style="z-index:1")
         .p-2
-          h3.mb-0.ms-3 b) Niveles de stock
+          h3.mb-0.ms-3 b) Niveles de <em>stock</em>
     
     p.mb-5(data-aos="fade-down") Define los valores de inventario que deben mantenerse para cada producto, con el fin de asegurar una operación fluida, permiten prevenir desabastecimientos, evitar acumulaciones innecesarias y optimizar el capital de trabajo. Estos niveles incluyen:
 
@@ -149,21 +149,21 @@
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema3/img09.svg' alt='AvatarTop')
-        h4.text-center Stock mínimo
+        h4.text-center <em>stock</em> mínimo
         p.text-center(data-aos="fade-down") Nivel crítico que garantiza la disponibilidad básica.
 
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema3/img10.svg' alt='AvatarTop')
-        h4.text-center Stock máximo
+        h4.text-center <em>stock</em> máximo
         p.text-center(data-aos="fade-down") Cantidad límite para evitar exceso y vencimientos.
 
       .col-md-6.col-lg.tarjeta--tabla.p-4
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema3/img11.svg' alt='AvatarTop')
-        h4.text-center Stock de seguridad
+        h4.text-center <em>stock</em> de seguridad
         p.text-center(data-aos="fade-down") Margen adicional ante eventualidades.
 
       .col-md-6.col-lg.tarjeta--tabla.p-4
@@ -390,7 +390,7 @@
         .p-2
           h3.mb-0.ms-3 g) Sistema de información y herramientas tecnológicas
 
-    p.mb-5(data-aos="fade-down") Regula el uso de software o plataformas para el registro y control del inventario. La digitalización del proceso mejora la trazabilidad y la toma de decisiones. Debe contemplar:
+    p.mb-5(data-aos="fade-down") Regula el uso de <em>software</em> o plataformas para el registro y control del inventario. La digitalización del proceso mejora la trazabilidad y la toma de decisiones. Debe contemplar:
 
     .row.justify-content-center
       .col-lg-10.col-12
@@ -561,7 +561,7 @@
         .row.justify-content-center(style="display: flex; width: 100%; margin: auto;")
           .col-lg-7.col-12.order-lg-2.order-2
             .cajon.cajon.C01.color-primario.p-3.mb-3
-              p.mb-0 En instituciones más grandes o urbanas, el uso de software especializado (como SAP, MIPRES o sistemas propios de las IPS), permite automatizar gran parte del proceso. Aun así, la política debe existir como documento de referencia, alineado con los protocolos de calidad, la normatividad sanitaria y los objetivos institucionales.
+              p.mb-0 En instituciones más grandes o urbanas, el uso de <em>software</em> especializado (como SAP, MIPRES o sistemas propios de las IPS), permite automatizar gran parte del proceso. Aun así, la política debe existir como documento de referencia, alineado con los protocolos de calidad, la normatividad sanitaria y los objetivos institucionales.
             p(data-aos="fade-down") La política de inventario en los servicios farmacéuticos no es solo un documento administrativo, sino una herramienta estratégica de gestión. Su correcta implementación permite garantizar la continuidad del servicio, proteger los recursos institucionales y mejorar la calidad de la atención. Todo establecimiento, sin importar su tamaño o ubicación, debe contar con una política de inventario clara, realista, aplicable y evaluable, como base para la organización eficiente del sistema de abastecimiento.
           .col-lg-5.col-md-7.col-12.mb-3.order-lg-1.order-1.mb-lg-0
             .row.justify-content-center(data-aos="flip-up")
@@ -599,7 +599,7 @@
                   | Se utilizará el método PEPS (Primero en Entrar, Primero en Salir) para la rotación de productos. 
                 li
                   i.lista-ul__vineta
-                  | Se establecerá un stock mínimo y máximo para cada medicamento, revisado trimestralmente.
+                  | Se establecerá un <em>stock</em> mínimo y máximo para cada medicamento, revisado trimestralmente.
                 li
                   i.lista-ul__vineta
                   | Las entradas y salidas se registrarán diariamente en una hoja de cálculo de control, bajo la supervisión del responsable farmacéutico.

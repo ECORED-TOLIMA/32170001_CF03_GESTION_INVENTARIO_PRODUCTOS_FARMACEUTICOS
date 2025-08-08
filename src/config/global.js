@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Control de inventario de productos farmacéuticos.',
     descripcionCurso:
-      'Este componente aborda los conceptos, métodos y herramientas para el control de inventarios en servicios farmacéuticos, con énfasis en la trazabilidad, el cálculo de stock y el uso de tecnologías. Su propósito es fortalecer la gestión eficiente y segura de los productos, garantizando su disponibilidad, calidad y cumplimiento de los lineamientos normativos del sector.',
+      'Este componente aborda los conceptos, métodos y herramientas para el control de inventarios en servicios farmacéuticos, con énfasis en la trazabilidad, el cálculo de <em>stock</em> y el uso de tecnologías. Su propósito es fortalecer la gestión eficiente y segura de los productos, garantizando su disponibilidad, calidad y cumplimiento de los lineamientos normativos del sector.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -103,17 +103,17 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Cálculo de stock en inventarios farmacéuticos',
+        titulo: 'Cálculo de <em>stock</em> en inventarios farmacéuticos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '5.1',
-            titulo: 'Tipos de stock y su cálculo',
+            titulo: 'Tipos de <em>stock</em> y su cálculo',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo: 'Ejemplo práctico de cálculo de stock',
+            titulo: 'Ejemplo práctico de cálculo de <em>stock</em>',
             hash: 't_5_2',
           },
         ],
@@ -287,12 +287,12 @@ export default {
         'herramienta tecnológica que permite registrar, controlar y analizar los movimientos de inventario de forma eficiente y en tiempo real.',
     },
     {
-      termino: 'Stock máximo',
+      termino: '<em>Stock</em> máximo',
       significado:
         'cantidad límite que puede almacenarse de un producto, con el fin de evitar excedentes y pérdidas por vencimiento.',
     },
     {
-      termino: 'Stock mínimo',
+      termino: '<em>Stock</em> mínimo',
       significado:
         'cantidad mínima de un producto que debe mantenerse en inventario para evitar desabastecimientos.',
     },

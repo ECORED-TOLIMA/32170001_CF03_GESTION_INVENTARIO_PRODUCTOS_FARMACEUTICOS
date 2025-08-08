@@ -41,7 +41,7 @@
                 td(data-aos="fade-down") Corresponde a la cantidad mínima que se debe mantener en existencia de un producto para evitar el desabastecimiento. Se calcula con base en el consumo promedio y el tiempo de entrega del proveedor. Actúa como señal de alerta para iniciar el proceso de reposición antes de que se agoten las existencias.
                 td(data-aos="fade-down") 50 unidades de acetaminofén de 500 mg.
               tr
-                td.text-bold(data-aos="fade-down")(style="background-color: #F6F6F6") Nivel de stock máximo
+                td.text-bold(data-aos="fade-down")(style="background-color: #F6F6F6") Nivel de <em>stock</em> máximo
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Define la cantidad tope que puede mantenerse en inventario sin comprometer espacio, recursos ni condiciones de almacenamiento. Su propósito es evitar la sobreacumulación, optimizar la inversión y reducir el riesgo de vencimientos.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") 200 unidades de amoxicilina 500 mg.
               tr
@@ -49,7 +49,7 @@
                 td(data-aos="fade-down") Es el nivel exacto del inventario en el que debe realizarse una nueva orden de compra. Este punto se calcula sumando el consumo promedio durante el tiempo de reabastecimiento más el margen de seguridad, si aplica. Un cálculo correcto asegura que el producto esté disponible en el momento necesario.
                 td(data-aos="fade-down") Cuando queden 80 unidades de insulina.
               tr
-                td.text-bold(data-aos="fade-down")(style="background-color: #F6F6F6") Tiempo de reabastecimiento (lead time)
+                td.text-bold(data-aos="fade-down")(style="background-color: #F6F6F6") Tiempo de reabastecimiento (<em>lead time</em>)
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") Es el periodo entre la solicitud de un producto y su recepción en el establecimiento. Incluye la aprobación, el despacho del proveedor y el transporte. Este valor influye directamente en el punto de pedido y en la planificación de compras.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") 7 días hábiles para entrega de guantes quirúrgicos.
               tr
@@ -58,7 +58,7 @@
                 td(data-aos="fade-down") Cada semana para productos de alta rotación.
               tr
                 td.text-bold(data-aos="fade-down")(style="background-color: #F6F6F6") Consumo promedio
-                td(data-aos="fade-down")(style="background-color: #F6F6F6") Indica la cantidad promedio de unidades utilizadas en un periodo determinado. Se calcula dividiendo el total consumido entre los días, semanas o meses del periodo. Esta información es clave para definir los niveles de stock y anticipar la demanda.
+                td(data-aos="fade-down")(style="background-color: #F6F6F6") Indica la cantidad promedio de unidades utilizadas en un periodo determinado. Se calcula dividiendo el total consumido entre los días, semanas o meses del periodo. Esta información es clave para definir los niveles de <em>stock</em> y anticipar la demanda.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6") 300 jeringas de 10 ml por mes.
               tr
                 td.text-bold(data-aos="fade-down") Margen de seguridad
@@ -151,7 +151,7 @@
             figure
               img(src="@/assets/curso/temas/tema2/img10.svg", alt="alt").img130.m-auto
           h4.text-center Rotación media
-          p.mb-0 Productos con una salida moderada, que requieren un seguimiento periódico para evitar sobrestock o desabastecimiento.
+          p.mb-0 Productos con una salida moderada, que requieren un seguimiento periódico para evitar sobre <em>stock</em> o desabastecimiento.
 
       .col-xl-4.col-lg-8.mb-4.mb-xl-5
         .crd.crd--grayGrad(data-aos="flip-left")

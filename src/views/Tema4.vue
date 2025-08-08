@@ -48,7 +48,7 @@
 
           .row.justify-content-center.mb-4(numero="4" titulo="Inventario permanente o continuo")
             .col-12.order-lg-1.order-2
-              p Requiere software especializado que actualiza el inventario en tiempo real tras cada movimiento (venta, dispensación o ingreso). Por ejemplo, una cadena de farmacias descuenta automáticamente un producto del inventario al facturarlo.
+              p Requiere <em>software</em> especializado que actualiza el inventario en tiempo real tras cada movimiento (venta, dispensación o ingreso). Por ejemplo, una cadena de farmacias descuenta automáticamente un producto del inventario al facturarlo.
             .col-12.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/temas/tema4/img05.jpg', alt="Imagen decorativa")
 
@@ -72,7 +72,7 @@
           .row.justify-content-center.p-4(titulo="")
             .col-lg-5.order-lg-1.order-2
               h4 Análisis VEN (Vitales, Esenciales, No esenciales)
-              p clasifica los productos según su impacto terapéutico. Siendo V (indispensables para la vida), E (necesarios para condiciones frecuentes) y N (de uso complementario). Ayuda a priorizar compras y a mantener stock mínimo vital.
+              p clasifica los productos según su impacto terapéutico. Siendo V (indispensables para la vida), E (necesarios para condiciones frecuentes) y N (de uso complementario). Ayuda a priorizar compras y a mantener <em>stock</em> mínimo vital.
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema4/img07.jpg', alt='Imagen decorativa')

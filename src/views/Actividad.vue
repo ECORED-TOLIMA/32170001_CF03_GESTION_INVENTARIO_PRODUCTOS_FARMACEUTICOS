@@ -21,7 +21,7 @@ export default {
         {
           id: 1,
           texto:
-            'El stock de seguridad, garantiza continuidad del servicio ante eventualidades como aumento de demanda o retrasos.',
+            'El <em>stock</em> de seguridad, garantiza continuidad del servicio ante eventualidades como aumento de demanda o retrasos.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -112,7 +112,7 @@ export default {
         {
           id: 8,
           texto:
-            'El stock máximo se define como el nivel ideal para garantizar una alta rotación de productos.',
+            'El <em>stock</em> máximo se define como el nivel ideal para garantizar una alta rotación de productos.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -190,7 +190,7 @@ export default {
         {
           id: 14,
           texto:
-            'El stock mínimo representa la cantidad máxima que se debe tener en inventario para evitar vencimientos.',
+            'El <em>stock</em> mínimo representa la cantidad máxima que se debe tener en inventario para evitar vencimientos.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
