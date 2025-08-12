@@ -555,6 +555,8 @@
     separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.4 Consideraciones prácticas para el contexto colombiano
+    
+    p.mb-5(data-aos="fade-down") En Colombia, muchos servicios farmacéuticos, especialmente en pequeñas droguerías o municipios rurales, operan con recursos limitados y sin acceso a plataformas digitales avanzadas. En estos casos, la política de inventario puede construirse con herramientas básicas, como registros manuales, formatos impresos, hojas de cálculo y controles físicos periódicos. Lo importante es que dicha política esté formalmente definida, adaptada al contexto operativo y conocida por el personal que participa en la gestión del inventario.
 
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-lg-10.col-12
@@ -599,7 +601,7 @@
                   | Se utilizará el método PEPS (Primero en Entrar, Primero en Salir) para la rotación de productos. 
                 li
                   i.lista-ul__vineta
-                  | Se establecerá un <em>stock</em> mínimo y máximo para cada medicamento, revisado trimestralmente.
+                  p.mb-0 Se establecerá un <em>stock</em> mínimo y máximo para cada medicamento, revisado trimestralmente.
                 li
                   i.lista-ul__vineta
                   | Las entradas y salidas se registrarán diariamente en una hoja de cálculo de control, bajo la supervisión del responsable farmacéutico.

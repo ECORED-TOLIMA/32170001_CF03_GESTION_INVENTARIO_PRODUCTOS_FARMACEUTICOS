@@ -339,17 +339,17 @@ export default {
     {
       referencia:
         'Ministerio de Salud y Protección Social. (2023). Manual de condiciones de habilitación para servicios farmacéuticos.',
-      link: 'https://www.minsalud.gov.co',
+      // link: 'https://www.minsalud.gov.co',
     },
     {
       referencia:
         'Organización Mundial de la Salud. (2019). Buenas prácticas de almacenamiento y distribución de productos farmacéuticos.',
-      link: 'https://www.who.int',
+      // link: 'https://www.who.int',
     },
     {
       referencia:
         'Pérez, M. L. (2021). Control de inventarios en servicios farmacéuticos hospitalarios. Revista Colombiana de Farmacia, 55(3), 214–228.',
-      link: 'https://doi.org/10.15446/rcfar.v55n3.91234',
+      // link: 'https://doi.org/10.15446/rcfar.v55n3.91234',
     },
     {
       referencia:
@@ -392,12 +392,12 @@ export default {
       autores: [
         {
           nombre: 'Oscar Ivan Uribe Ortiz',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador <em>web</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Jose Yobani Penagos Mora',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador <em>web</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

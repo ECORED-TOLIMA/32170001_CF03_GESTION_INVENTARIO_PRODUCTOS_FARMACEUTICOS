@@ -36,7 +36,7 @@
           .col-lg-5.order-lg-2.order-2
             p Representa la cantidad más alta que puede mantenerse de un producto en inventario sin incurrir en sobrecostos por almacenamiento ni comprometer su integridad. Su determinación depende de factores como la capacidad del almacén, la demanda histórica, la frecuencia de pedidos y la vida útil del producto. Mantener este límite permite prevenir excesos que puedan deteriorar los productos, especialmente aquellos con requerimientos especiales como cadena de frío o sensibilidad a la humedad.
 
-      .py-3.py-md-4(titulo="Stock mínimo")
+      .py-3.py-md-4(titulo="<em>Stock</em> mínimo")
         .row.justify-content-center.p-4
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4
             figure(data-aos="fade-right")

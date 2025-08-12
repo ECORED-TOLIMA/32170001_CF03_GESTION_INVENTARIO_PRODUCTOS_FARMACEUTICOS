@@ -72,7 +72,7 @@
           .row.justify-content-center.p-4(titulo="")
             .col-lg-5.order-lg-1.order-2
               h4 Análisis VEN (Vitales, Esenciales, No esenciales)
-              p clasifica los productos según su impacto terapéutico. Siendo V (indispensables para la vida), E (necesarios para condiciones frecuentes) y N (de uso complementario). Ayuda a priorizar compras y a mantener <em>stock</em> mínimo vital.
+              p Clasifica los productos según su impacto terapéutico. Siendo V (indispensables para la vida), E (necesarios para condiciones frecuentes) y N (de uso complementario). Ayuda a priorizar compras y a mantener <em>stock</em> mínimo vital.
             .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema4/img07.jpg', alt='Imagen decorativa')

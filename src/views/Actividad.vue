@@ -15,7 +15,8 @@ export default {
     cuestionario: {
       tema: 'tema_actividad_didactica',
       titulo: 'Cuestionario',
-      introduccion: 'texto_introductorio_actividad_didactica',
+      introduccion:
+        'Lea cada enunciado referente a los temas desarrollados en el componente formativo y elija entre verdadero y falso según corresponda.',
       barajarPreguntas: true,
       preguntas: [
         {

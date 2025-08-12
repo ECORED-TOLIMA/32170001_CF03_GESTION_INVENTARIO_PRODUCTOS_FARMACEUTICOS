@@ -37,7 +37,7 @@
                 th(data-aos="fade-down")(style= "width: 30%") Ejemplo práctico
             tbody
               tr
-                td.text-bold(data-aos="fade-down") Nivel de stock mínimo
+                td.text-bold(data-aos="fade-down") Nivel de <em>stock</em> mínimo
                 td(data-aos="fade-down") Corresponde a la cantidad mínima que se debe mantener en existencia de un producto para evitar el desabastecimiento. Se calcula con base en el consumo promedio y el tiempo de entrega del proveedor. Actúa como señal de alerta para iniciar el proceso de reposición antes de que se agoten las existencias.
                 td(data-aos="fade-down") 50 unidades de acetaminofén de 500 mg.
               tr
@@ -95,7 +95,7 @@
           .tarjeta.tarjeta--C01(style= "width: 100%")
             .p-4(data-aos="fade-down")
               h4.text-center Clase A
-              p.mb-0.text-center Representa un porcentaje reducido del total de referencias (aproximadamente el 10-20%), pero concentra el mayor valor monetario (70-80%). Requiere un control estricto y reposiciones frecuentes, ya que cualquier desabastecimiento puede afectar gravemente el funcionamiento del sistema.
+              p.mb-0.text-center Representa un porcentaje reducido del total de referencias (aproximadamente el 10-20 %), pero concentra el mayor valor monetario (70-80 %). Requiere un control estricto y reposiciones frecuentes, ya que cualquier desabastecimiento puede afectar gravemente el funcionamiento del sistema.
 
       .col-lg-4.col-lg.mb-5.mb-lg-0(data-aos="flip-up")
         .tarjeta-avatar
@@ -103,7 +103,7 @@
           .tarjeta.tarjeta--C01(style= "width: 100%")
             .p-4(data-aos="fade-down")
               h4.text-center Clase B
-              p.mb-0.text-center Comprende productos de valor intermedio (alrededor del 15-25%), que requieren un control regular pero no tan riguroso como los de clase A.
+              p.mb-0.text-center Comprende productos de valor intermedio (alrededor del 15-25 %), que requieren un control regular pero no tan riguroso como los de clase A.
 
       .col-lg-4.col-lg.mb-5.mb-lg-0(data-aos="flip-up")
         .tarjeta-avatar
@@ -111,7 +111,7 @@
           .tarjeta.tarjeta--C01(style= "width: 100%")
             .p-4(data-aos="fade-down")
               h4.text-center Clase C
-              p.mb-0.text-center Incluye la mayoría de los productos (55-70%), pero con un impacto económico bajo. Suelen tener un control menos frecuente, y la reposición puede hacerse en mayor cantidad para reducir costos operativos.
+              p.mb-0.text-center Incluye la mayoría de los productos (55-70 %), pero con un impacto económico bajo. Suelen tener un control menos frecuente, y la reposición puede hacerse en mayor cantidad para reducir costos operativos.
 
     p.mb-5(data-aos="fade-down") Esta clasificación permite priorizar esfuerzos, recursos y controles, así como planificar estratégicamente el almacenamiento y la reposición de inventario.
 
