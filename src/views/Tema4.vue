@@ -53,8 +53,8 @@
               img(src='@/assets/curso/temas/tema4/img05.jpg', alt="Imagen decorativa")
 
     separador
-    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.1 Métodos complementarios
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 4.2 Métodos complementarios
     
     p.mb-5(data-aos="fade-down") Estos métodos aportan una visión más estratégica y analítica, permitiendo priorizar recursos, clasificar productos y mejorar la toma de decisiones.
 

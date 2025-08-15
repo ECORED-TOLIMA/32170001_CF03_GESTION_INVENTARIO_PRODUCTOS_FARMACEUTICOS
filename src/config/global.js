@@ -336,21 +336,21 @@ export default {
       link:
         'https://www.minsalud.gov.co/Paginas/Pol%C3%ADtica%20Farmac%C3%A9utica%202012.aspx',
     },
-    {
-      referencia:
-        'Ministerio de Salud y Protección Social. (2023). Manual de condiciones de habilitación para servicios farmacéuticos.',
-      // link: 'https://www.minsalud.gov.co',
-    },
-    {
-      referencia:
-        'Organización Mundial de la Salud. (2019). Buenas prácticas de almacenamiento y distribución de productos farmacéuticos.',
-      // link: 'https://www.who.int',
-    },
-    {
-      referencia:
-        'Pérez, M. L. (2021). Control de inventarios en servicios farmacéuticos hospitalarios. Revista Colombiana de Farmacia, 55(3), 214–228.',
-      // link: 'https://doi.org/10.15446/rcfar.v55n3.91234',
-    },
+    // {
+    //   referencia:
+    //     'Ministerio de Salud y Protección Social. (2023). Manual de condiciones de habilitación para servicios farmacéuticos.',
+    //   // link: 'https://www.minsalud.gov.co',
+    // },
+    // {
+    //   referencia:
+    //     'Organización Mundial de la Salud. (2019). Buenas prácticas de almacenamiento y distribución de productos farmacéuticos.',
+    //   // link: 'https://www.who.int',
+    // },
+    // {
+    //   referencia:
+    //     'Pérez, M. L. (2021). Control de inventarios en servicios farmacéuticos hospitalarios. Revista Colombiana de Farmacia, 55(3), 214–228.',
+    //   // link: 'https://doi.org/10.15446/rcfar.v55n3.91234',
+    // },
     {
       referencia:
         'Zúñiga, S. & Rodríguez, A. (2020). Trazabilidad y gestión de inventario en farmacias hospitalarias. Editorial Aula Médica.',

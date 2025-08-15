@@ -239,7 +239,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.col-12.order-lg-2.order-2.mb-lg-0
-        .row.justify-content-center.mb-4(data-aos="flip-up")
+        .row.justify-content-center.mb-3(data-aos="flip-up")
           .col-12
             .tarjeta-avatar-b.h-100
               .tarjeta-avatar-b__img
@@ -250,7 +250,7 @@
                   p.mb-0(data-aos="fade-down") Mensual, bimestral, trimestral, semestral o continua (inventario rotativo).
 
       .col-lg-6.col-12.order-lg-2.order-2.mb-lg-0
-        .row.justify-content-center.mb-0(data-aos="flip-up")
+        .row.justify-content-center.mb-3(data-aos="flip-up")
           .col-12
             .tarjeta-avatar-b.h-100
               .tarjeta-avatar-b__img
@@ -340,7 +340,7 @@
     p.mb-5(data-aos="fade-down") Establece las medidas para gestionar productos en riesgo de vencimiento o que han perdido su integridad. Su objetivo es proteger la seguridad del paciente y cumplir con las normas sanitarias. Se debe incluir lo siguiente:
 
     .row.cajon.BG05.align-items-center.pt-3.mb-5
-      .col-lg-12.col-12.px-lg-5.px-4
+      .col-lg-12.col-12.py-lg-0.py-4
         .row.justify-content-center.align-items-center
           .col-md-6.col-lg-4.mb-4.mb-md-0.d-lg-flex.d-none(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema3/img22.png', alt='Imagen decorativa')
@@ -502,7 +502,7 @@
     p.mb-5(data-aos="fade-down") Adoptar una política clara, documentada y aplicada sistemáticamente en los servicios farmacéuticos conlleva múltiples beneficios, entre ellos:
 
     .row.cajon.BG05.align-items-center.pt-3.mb-5
-      .col-lg-12.col-12.px-lg-5.px-4
+      .col-lg-12.col-12.py-lg-0.py-4
         .row.justify-content-center.align-items-center
           .col-md-6.col-lg-4.mb-4.mb-md-0.d-lg-flex.d-none(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema3/img42.png', alt='Imagen decorativa')
