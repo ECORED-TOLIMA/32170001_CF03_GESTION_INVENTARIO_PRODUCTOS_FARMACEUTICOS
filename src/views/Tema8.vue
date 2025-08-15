@@ -139,7 +139,7 @@
             .col-lg-6.col-sm-4.col-6
               img(src='@/assets/curso/temas/tema8/img09.svg' alt='AvatarTop')
           h4.text-center Firma y responsabilidad
-          p identificación de quien diligencia el formato.
+          p Identificación de quien diligencia el formato.
     
     .row.justify-content-center.mb-0
       .col-lg-10.col-12
